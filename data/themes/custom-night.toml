@@ -1,0 +1,17 @@
+# Theme metadata
+name = "Custom Night"
+
+[dark]
+  # Primary
+  primary = "#5B9682"
+
+  # Menu
+  menu_primary = "#000"
+  menu_text = "#fff"
+  menu_text_active = "#fdfbe4"
+  menu_title = "#fff"
+
+  # Backgrounds
+  background = "#000"
+  home_section_odd = "#000"
+  home_section_even = "#000"
