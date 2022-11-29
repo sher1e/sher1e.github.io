@@ -27,7 +27,7 @@ sections:
       title: 'Short Bio'
       subtitle: ''
       text: |-
-        I'm a year-two PhD student at Fudan University. My research interests include post-quantum cryptography, fully homomorphic encryption, parallel computing, hardware design, and embedded systems. I was a research intern at Huawei Shield Lab and Zhejiang Lab in 2022.
+        I'm a year-two PhD student at Fudan University and a research intern at Zhejiang Lab. My research interests include post-quantum cryptography, fully homomorphic encryption, parallel computing, hardware design, and embedded systems. I was a research intern at Huawei Shield Lab in 2022.
 
     design:
       columns: '1'
