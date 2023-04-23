@@ -4,7 +4,7 @@
 title: "cuXCMP: CUDA-Accelerated Private Comparison Based on Homomorphic Encryption"
 authors: [Hao Yang, admin, Zhe Liu, Yunlei Zhao]
 date: 2022-11-21T10:56:33+08:00
-doi: ""
+doi: "10.1109/TIFS.2023.3267677"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-11-21T10:56:33+08:00
@@ -16,8 +16,8 @@ publishDate: 2022-11-21T10:56:33+08:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "IEEE Transactions on Information Forensics and Security"
+publication_short: "TIFS"
 
 abstract: Private comparison schemes constructed on homomorphic encryption offer the noninteractive, output expressive and parallelizable features, and have advantages in communication bandwidth and performance. In this paper, we propose cuXCMP, which allows negative and ﬂoat inputs, offers fully output expressive feature, and is more extensible and practical compared to XCMP (AsiaCCS 2018). Meanwhile, we introduce several memory-centric optimizations of the constant term extraction kernel tailored for CUDA-enabled GPUs. Firstly, we fully utilize the shared memory and present compact GPU implementations of NTT and INTT using a single block; Secondly, we fuse multiple kernels into one AKS kernel, which conducts the automorphism and key switching operation, and reduce the grid dimension for better resource usage, data access rate and synchronization. Thirdly, we precisely measure the IO latency and choose an appropriate number of CUDA streams to enable concurrent execution of independent operations, yielding a constant term extraction kernel with perfect latency hide, i.e., CTX. Combining these approaches, we boost the overall execution time to optimum level and the speedup ratio increases with the comparison scales. For one comparison, we speedup the AKS by 23.71$\times$, CTX by 15.58$\times$, and scheme by 1.83$\times$ (resp., 18.29$\times$, 11.75$\times$, and 1.42$\times$) compared to C (resp., AVX512) baselines, respectively. For 32 comparisons, our CTX and scheme implementations outperform the C (resp., AVX512) baselines by 112.00$\times$ and 1.99$\times$ (resp., 81.53$\times$ and 1.51$\times$).
 
@@ -33,8 +33,6 @@ featured: false
 links:
 - name: ePrint
   url: https://eprint.iacr.org/2022/1621
-  # icon_pack: fab
-  # icon: twitter
 
 url_pdf: https://eprint.iacr.org/2022/1621.pdf
 url_code:
