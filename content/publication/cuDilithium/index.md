@@ -3,11 +3,11 @@
 
 title: "High-Throughput GPU Implementation of Dilithium Post-Quantum Digital Signature"
 authors: [admin, Hao Yang, Wangchen Dai, Zhe Liu, Yunlei Zhao]
-date: 2022-11-22T11:01:24+08:00
-doi: "10.48550/arXiv.2211.12265"
+date: 2023-04-22T11:01:24+08:00
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-11-22T11:01:24+08:00
+publishDate: 2023-04-22T11:01:24+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,13 +36,13 @@ links:
   # icon_pack: fab
   # icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2211.12265.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: https://arxiv.org/e-print/2211.12265
+url_source:
 url_video:
 
 # Featured image

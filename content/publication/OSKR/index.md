@@ -40,13 +40,13 @@ links:
   # icon_pack: fab
   # icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2109.02893
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: https://arxiv.org/e-print/2109.02893
+url_source:
 url_video:
 
 # Featured image

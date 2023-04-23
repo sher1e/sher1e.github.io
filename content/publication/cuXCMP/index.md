@@ -3,17 +3,17 @@
 
 title: "cuXCMP: CUDA-Accelerated Private Comparison Based on Homomorphic Encryption"
 authors: [Hao Yang, admin, Zhe Liu, Yunlei Zhao]
-date: 2022-11-21T10:56:33+08:00
+date: 2023-04-11T10:56:33+08:00
 doi: "10.1109/TIFS.2023.3267677"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-11-21T10:56:33+08:00
+publishDate: 2023-04-11T10:56:33+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Information Forensics and Security"
@@ -34,7 +34,7 @@ links:
 - name: ePrint
   url: https://eprint.iacr.org/2022/1621
 
-url_pdf: https://eprint.iacr.org/2022/1621.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

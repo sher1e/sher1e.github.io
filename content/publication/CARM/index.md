@@ -36,7 +36,7 @@ links:
 - name: IEEE Xplore
   url: https://ieeexplore.ieee.org/document/9976229
 
-url_pdf: https://eprint.iacr.org/2022/633.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
