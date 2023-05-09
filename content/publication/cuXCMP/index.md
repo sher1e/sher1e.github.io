@@ -33,6 +33,8 @@ featured: false
 links:
 - name: ePrint
   url: https://eprint.iacr.org/2022/1621
+- name: IEEE Xplore
+  url: https://ieeexplore.ieee.org/document/10121630
 
 url_pdf:
 url_code:
