@@ -1,34 +1,51 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-11-24
+date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.avatar
+  - block: resume-biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: 
+      text:
     design:
+      css_class: dark
       background:
         color: black
-        text_color_light: true
         image:
           # Add your image background to `assets/media/`.
-          filename: "Green Texture.jpg"
+          filename: li-yang-5h_dMuX_7RE-unsplash.webp
           filters:
-            brightness: 0.5
+            brightness: 0.4
           size: cover
           position: center
           parallax: false
+  - block: stats
+    content:
+      items:
+        - statistic: "16"
+          description: |
+            Publications
+        - statistic: "64"
+          description: |
+            Citations
+        - statistic: "5"
+          description: |
+            h-index
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: markdown
     content:
-      title: 'Short Bio'
+      title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        I'm a year-two PhD student at Fudan University and a research intern at Zhejiang Lab. My research interests include post-quantum cryptography, fully homomorphic encryption, parallel computing, hardware design, and embedded systems. I was a research intern at Huawei Shield Lab in 2022.
-
+        I received Ph.D. degree in cryptography from Fudan University. My research interests encompass post-quantum cryptography, homomorphic encryption, and cryptographic engineering. I have published in journals and conferences, including IEEE Transactions on Computers (TC), IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Information Theory (TIT), and the Annual Computer Security Applications Conference (ACSAC). I also serve as reviewer for publications such as IEEE TIFS, Scientific Reports, and IEEE Internet of Things Journal (IoTJ).
     design:
       columns: '1'
   # - block: collection
@@ -55,6 +72,8 @@ sections:
   #     order: desc
   #   design:
   #     # Choose a layout view
-  #     view: compact
-  #     columns: '1'
+  #     view: date-title-summary
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
 ---

@@ -19,13 +19,13 @@ image:
 location: Wowchemy HQ
 math: true
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+slides: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 tags: []
 title: Example Talk
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://slideshare.net"
 url_video: ""
 ---
 
