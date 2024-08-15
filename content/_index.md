@@ -44,8 +44,8 @@ sections:
     content:
       title: 'Welcome 👋'
       subtitle: ''
-      text: |-
-        I received Ph.D. degree in cryptography from Fudan University. My research interests encompass post-quantum cryptography, homomorphic encryption, and cryptographic engineering. I have published in journals and conferences, including IEEE Transactions on Computers (TC), IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Information Theory (TIT), and the Annual Computer Security Applications Conference (ACSAC). I also serve as reviewer for publications such as IEEE TIFS, Scientific Reports, and IEEE Internet of Things Journal (IoTJ).
+      text: |
+        I am **Shiyu Shen** (**沈诗羽**). I received my PhD degree from Fudan University, supervised by Prof. Yunlei Zhao. My research interests include post-quantum cryptography, homomorphic encryption, and cryptographic engineering. I have published in journals and conferences including _IEEE Transactions on Computers_ (TC), _IEEE Transactions on Information Forensics and Security_ (TIFS), _IEEE Transactions on Dependable and Secure Computing_ (TDSC), _IEEE Transactions on Information Theory_ (TIT), and _the Annual Computer Security Applications Conference_ (ACSAC). I also serve as reviewer for publications including _IEEE Transactions on Information Forensics and Security_ (TIFS), _Nature Scientific Reports_, _Designs, Codes and Cryptography_ (DCC), _IEEE Internet of Things Journal_ (IoTJ), and _Journal of Cryptographic Engineering_ (JCE).
     design:
       columns: '1'
   # - block: collection

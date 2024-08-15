@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Shiyu Shen # Website name
-baseURL: 'https://sher1e.github.io/' # Website URL
+baseURL: 'https://crypto.sher1e.dev/' # Website URL
 
 ############################
 ## LANGUAGE

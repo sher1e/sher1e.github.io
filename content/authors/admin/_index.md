@@ -61,18 +61,21 @@ education:
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Research Intern
+    company_name: Zhejiang Lab
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-08-01
+    date_end: 2023-11-01
+    summary: ""
+  - position: Research Intern
+    company_name: Shield Lab @ Huawei
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-06-01
+    date_end: 2022-07-31
+    summary: ""
 #   - position: Backend Software Engineer
 #     company_name: X
 #     company_url: ''
