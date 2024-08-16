@@ -1,14 +1,14 @@
 ---
-title: ' AKCN-MLWE算法AVX2高效实现 '
+title: ' High-Speed AVX2 Implementation of AKCN-MLWE '
 authors:
-- ' 杨昊'
-- ' 刘哲'
-- ' 黄军浩'
-- ' 沈诗羽'
-- ' 赵运磊'
+- Hao Yang
+- Zhe Liu
+- Junhao Huang
+- admin
+- Yunlei Zhao
 date: '2021-12-01'
 publishDate: '2024-08-15T13:48:24.006647Z'
 publication_types:
 - article-journal
-publication: '*计算机学报*'
+publication: '*Chinese Journal of Computers*'
 ---

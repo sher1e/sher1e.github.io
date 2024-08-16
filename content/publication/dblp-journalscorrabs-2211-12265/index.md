@@ -1,7 +1,7 @@
 ---
 title: High-Throughput GPU Implementation of Dilithium Post-Quantum Digital Signature
 authors:
-- Shiyu Shen
+- admin
 - Hao Yang
 - Wangchen Dai
 - Zhe Liu

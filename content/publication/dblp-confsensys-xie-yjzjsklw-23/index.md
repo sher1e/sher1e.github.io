@@ -7,7 +7,7 @@ authors:
 - Linshan Jiang
 - Zhihe Zhao
 - Siyang Jiang
-- Shiyu Shen
+- admin
 - Salabat Khan
 - Zhe Liu
 - Kaishun Wu
@@ -16,7 +16,7 @@ publishDate: '2024-08-15T13:48:23.962296Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 21st ACM Conference on Embedded Networked Sensor
-  Systems, SenSys 2023, Istanbul, Turkiye, November 12-17, 2023*'
+  Systems, SenSys 2023*'
 doi: 10.1145/3625687.3628394
 links:
 - name: URL
