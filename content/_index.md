@@ -16,7 +16,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: tom-ritson-syGe7e2gKG0-unsplash
+          filename: tom-ritson-syGe7e2gKG0-unsplash.jpg
           filters:
             brightness: 0.4
           size: cover
