@@ -16,7 +16,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filename: tom-ritson-syGe7e2gKG0-unsplash
           filters:
             brightness: 0.4
           size: cover
